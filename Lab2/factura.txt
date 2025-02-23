@@ -1,0 +1,4 @@
+Client: Ion Popescu
+CNP: 1234567890123
+Produs: Laptop Dell, Pret: 2500.50, Cantitate: 2, TVA: 19%
+Produs: Mouse Logitech, Pret: 100.00, Cantitate: 1, TVA: 5%
